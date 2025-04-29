@@ -4,3 +4,5 @@ going further i will be exploring with git nad github
 git - is the distributed version control sytsem. it is a software installed on yout local machine. 
 you play around with linux commands
 github - is the centrailsed server where you can store your code for collabratipn with other developers.
+
+lets push the changes to remote repo
