@@ -6,3 +6,4 @@ you play around with linux commands
 github - is the centrailsed server where you can store your code for collabratipn with other developers.
 
 lets push the changes to remote repo
+today, i have started to explore more on merge concept.
